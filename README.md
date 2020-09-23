@@ -1,0 +1,2 @@
+# Housing-Price-Prediction
+A Detailed Regression Guide with House-pricing This kernel is going to solve House Pricing with Advanced Regression Analysis, a popular machine learning dataset for beginners. I am going to share how I work with a dataset step by step from data preparation and data analysis to statistical tests and implementing machine learning models. I will also describe the model results along with many other tips. 
